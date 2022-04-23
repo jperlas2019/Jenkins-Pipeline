@@ -21,3 +21,5 @@ This project demonstrates the following skills:
 - Groovy language
 - Ability to setup and configure a Jenkins Pipeline
 - General DevOps skills and CI/CD methodologies
+
+For a visual demonstration, please visit my website at https://jaguarperlas.com and head to "Works and Projects"
